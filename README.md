@@ -11,3 +11,5 @@
         <pre><code>streamlit run spamDetector.py</code></pre>
     </li>
 </ol>
+
+#Happy Learning and Coding 😊👍
